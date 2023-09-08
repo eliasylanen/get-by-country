@@ -2,6 +2,7 @@
   "name": "get-by-country",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "author": "Elias Ylänen <elias.ylanen@gmail.com>",
   "license": "MIT"
 }
