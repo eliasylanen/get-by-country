@@ -1,51 +1,51 @@
 [
-  {
-    "name": "Lani Eväät",
-    "location": "Finland",
-    "purchases": [
-      {
-        "item": "Pepsi",
-        "quantity": 10,
-        "price": 2
-      },
-      {
-        "item": "Fazer",
-        "quantity": 30,
-        "price": 3
-      }
-    ]
-  },
-  {
-    "name": "It's Friday",
-    "location": "Finland",
-    "purchases": [
-      {
-        "item": "Karhu",
-        "quantity": 24,
-        "price": 2
-      }
-    ]
-  },
-  {
-    "name": "Token Swede",
-    "location": "Sweden",
-    "purchases": [
-      {
-        "item": "Surströmming",
-        "quantity": 100,
-        "price": 2
-      }
-    ]
-  },
-  {
-    "name": "An Actual Adult",
-    "location": "Germany",
-    "purchases": [
-      {
-        "item": "Kinder",
-        "quantity": 200,
-        "price": 0.5
-      }
-    ]
-  }
+	{
+		"name": "Lani Eväät",
+		"location": "Finland",
+		"purchases": [
+			{
+				"item": "Pepsi",
+				"quantity": 10,
+				"price": 2
+			},
+			{
+				"item": "Fazer",
+				"quantity": 30,
+				"price": 3
+			}
+		]
+	},
+	{
+		"name": "It's Friday",
+		"location": "Finland",
+		"purchases": [
+			{
+				"item": "Karhu",
+				"quantity": 24,
+				"price": 2
+			}
+		]
+	},
+	{
+		"name": "Token Swede",
+		"location": "Sweden",
+		"purchases": [
+			{
+				"item": "Surströmming",
+				"quantity": 100,
+				"price": 2
+			}
+		]
+	},
+	{
+		"name": "An Actual Adult",
+		"location": "Germany",
+		"purchases": [
+			{
+				"item": "Kinder",
+				"quantity": 200,
+				"price": 0.5
+			}
+		]
+	}
 ]

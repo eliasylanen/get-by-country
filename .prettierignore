@@ -1,0 +1,28 @@
+# General
+.prettierignore
+.gitignore
+.env*
+*.puml
+*.sh
+.editorconfig
+
+
+# JS
+node_modules/
+*.lock
+.npmrc
+.pa11yci
+
+# Tests
+/coverage
+*.snap
+
+Procfile
+
+# Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+*.svg
+*.md
