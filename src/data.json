@@ -10,7 +10,7 @@
       },
       {
         "item": "Fazer",
-        "quantity": 50,
+        "quantity": 30,
         "price": 3
       }
     ]
@@ -27,13 +27,24 @@
     ]
   },
   {
-    "name": "An Actual Adult",
+    "name": "Token Swede",
     "location": "Sweden",
     "purchases": [
       {
         "item": "Surströmming",
         "quantity": 100,
         "price": 2
+      }
+    ]
+  },
+  {
+    "name": "An Actual Adult",
+    "location": "Germany",
+    "purchases": [
+      {
+        "item": "Kinder",
+        "quantity": 200,
+        "price": 0.5
       }
     ]
   }
